@@ -1,0 +1,15 @@
+.link{
+    text-decoration: none;
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: black;
+}
+.footerLinks {
+    text-decoration: underline;
+    list-style-type: none;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    color: white;
+    margin-bottom: 10px;
+}
